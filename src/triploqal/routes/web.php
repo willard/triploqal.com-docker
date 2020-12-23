@@ -17,8 +17,29 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+
+
+Route::group(
+    [
+        'prefix' => 'dashboard',
+        'middleware' => ['auth']
+    ], function () {
+
+        Route::get(
+            '/',
+            function () {
+                return view('dashboard');
+            }
+        )->name('dashboard');
+
+        Route::get(
+            '/page',
+            function () {
+                return view('dashboard');
+            }
+        )->name('dashboard.page');
+
+    }
+);
 
 require __DIR__.'/auth.php';
