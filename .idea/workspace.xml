@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="974a6c3c-6942-4236-b1d6-2c489f4f0d4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/triploqal.com-docker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/app/View/Components/PostForm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/components/post-form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/home/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/left-sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/right-sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/post/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/post/single.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/components/application-logo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/components/application-logo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/components/nav-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/components/nav-link.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/dashboard.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/navigation.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/tests/Feature/PageTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triploqal/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +53,7 @@
       <workItem from="1609336939952" duration="2458000" />
       <workItem from="1609426405499" duration="6541000" />
       <workItem from="1609772024587" duration="25000" />
+      <workItem from="1609792360657" duration="304000" />
     </task>
     <servers />
   </component>
