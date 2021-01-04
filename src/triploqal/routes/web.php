@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    if (Auth::check()) {
+        return redirect('/dashboard');
+    }
     return view('welcome');
 });
 
@@ -32,14 +37,9 @@ Route::group(
             }
         )->name('dashboard');
 
-        Route::get(
-            '/page',
-            function () {
-                return view('dashboard');
-            }
-        )->name('dashboard.page');
-
     }
 );
+
+Route::get('/post/{post:uuid}', [PostController::class, 'showSingle']);
 
 require __DIR__.'/auth.php';

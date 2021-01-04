@@ -21,16 +21,16 @@
             @include('layouts.navigation')
 
             <!-- Page Heading -->
-            <header class="bg-white shadow">
-                <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-                    {{ $header }}
-                </div>
-            </header>
+                <div class="md:flex flex-col md:flex-row w-full justify-between px-5">
+                    @include('layouts.left-sidebar')
+                    <!-- Page Content -->
+                    <main class="">
+                        {{ $slot }}
+                    </main>
 
-            <!-- Page Content -->
-            <main>
-                {{ $slot }}
-            </main>
+                    @include('layouts.right-sidebar')
+                </div>
+
         </div>
     </body>
 </html>

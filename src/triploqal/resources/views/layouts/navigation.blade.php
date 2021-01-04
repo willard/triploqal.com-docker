@@ -1,6 +1,6 @@
 <nav x-data="{ open: false }" class="bg-white border-b border-gray-100">
     <!-- Primary Navigation Menu -->
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-16">
             <div class="flex">
                 <!-- Logo -->
@@ -10,12 +10,21 @@
                     </a>
                 </div>
 
-                <!-- Navigation Links -->
-                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                    <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
-                        {{ __('Dashboard') }}
-                    </x-nav-link>
-                </div>
+{{--                <!-- Navigation Links -->--}}
+{{--                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">--}}
+{{--                    <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">--}}
+{{--                        {{ __('Dashboard') }}--}}
+{{--                    </x-nav-link>--}}
+{{--                </div>--}}
+            </div>
+
+            <div class="flex w-1/4">
+                <form class="flex-shrink-0 flex items-center w-full">
+                    <label class="w-full flex justify-between mt-0 block px-0.5 border-0 border-b-2 border-gray-200 focus:border-black">
+                        <input type="text" class="border-0 focus:ring-0 w-full text-2xl font-bold" placeholder="search">
+                        <button class="bg-black text-white rounded px-2 my-2">submit</button>
+                    </label>
+                </form>
             </div>
 
             <!-- Settings Dropdown -->

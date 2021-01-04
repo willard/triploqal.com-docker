@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="974a6c3c-6942-4236-b1d6-2c489f4f0d4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/triploqal.com-docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/app/View/Components/PostForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/components/post-form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/home/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/left-sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/right-sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/post/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triploqal/resources/views/post/single.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/components/application-logo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/components/application-logo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/components/nav-link.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/components/nav-link.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/resources/views/layouts/navigation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/tests/Feature/PageTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triploqal/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/triploqal/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m6kjrRWtokjbIUY5hHZTcAtZrD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974a6c3c-6942-4236-b1d6-2c489f4f0d4d" name="Default Changelist" comment="" />
+      <created>1608821567108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608821567108</updated>
+      <workItem from="1608821570060" duration="860000" />
+      <workItem from="1608822506112" duration="7674000" />
+      <workItem from="1609252755509" duration="388000" />
+      <workItem from="1609253283045" duration="210000" />
+      <workItem from="1609253510437" duration="135000" />
+      <workItem from="1609253671394" duration="105000" />
+      <workItem from="1609259142691" duration="932000" />
+      <workItem from="1609260143070" duration="8166000" />
+      <workItem from="1609336939952" duration="2458000" />
+      <workItem from="1609426405499" duration="6541000" />
+      <workItem from="1609772024587" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
